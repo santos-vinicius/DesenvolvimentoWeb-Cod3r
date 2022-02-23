@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/santos-vinicius/DesenvolvimentoWeb-Cod3r?style=flat-square) ![Acesse o curso](https://img.shields.io/badge/udemy-acesse%20o%20curso-blue?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/santos-vinicius/DesenvolvimentoWeb-Cod3r?style=flat-square) ![Acesse o curso](https://img.shields.io/badge/udemy-acesse%20o%20curso-blue?style=flat-square&link=https://www.udemy.com/course/curso-web/)
 
 ## Curso de Desenvolvimento Web - **Cod3r**
 
