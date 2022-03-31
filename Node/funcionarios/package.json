@@ -1,0 +1,16 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "test": "teste, teste2"
+  },
+  "author": "Vinicius Santos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
